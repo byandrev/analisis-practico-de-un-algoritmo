@@ -4,6 +4,6 @@
 
 * Mauricio Di Donato Sánchez - 1152186
 * Andŕes Alfonso Parra Garzón - 1152185
-* Monica Gil Gonzalez
-* Daniel Cañizares
-* Camilo Botello
+* Mónica Gil González - 1152183
+* Daniel Steven Cañizares Ortega  - 1152203 
+* Yohan Camilo Botello Maldonado - 1152137
